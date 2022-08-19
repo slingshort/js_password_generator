@@ -3,6 +3,8 @@ Week 3 javascript homework challenge
 
 The purpose of this website is to allow the user to the use to generate a random password with a specific chosen number of characters (between 8 - 128 characters). The random password is then written on the page.
 
+Deployement link: https://slingshort.github.io/js_password_generator/
+
 The user will have the choice of whether or not to include:
     - Special characters 
     - Lower case characters
@@ -18,4 +20,4 @@ Things that can be improved:
 
 The following image demonstrates the functionality of the page with a view of the console:
 
-![Example_of_functionality](./assets/Screen%20Shot%202022-08-18%20at%204.08.24%20pm.png)
+![Example_of_functionality](../assets/Screen%20Shot%202022-08-18%20at%204.08.24%20pm.png)
