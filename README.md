@@ -20,4 +20,4 @@ Things that can be improved:
 
 The following image demonstrates the functionality of the page with a view of the console:
 
-![Example_of_functionality](../assets/Screen%20Shot%202022-08-18%20at%204.08.24%20pm.png)
+![Example_of_functionality](./assets/Screen%20Shot%202022-08-18%20at%204.08.24%20pm.png)
